@@ -2,11 +2,9 @@
 
 ## <a href="https://lajatto.github.io/">Back to homepage</a>
 
-## **Project description:** Blue Bank is a bank in USA that has a loan departmenThey supply loans to individuals and don’t have much reporting on how risky these
-borrowers are.
+## **Project description:** Blue Bank is a bank in USA that has a loan departmenThey supply loans to individuals and don’t have much reporting on how risky these borrowers are.
 
-Using Python and Tableau, they’d like to see a report of borrowers who may have
-issues paying back the loan.
+Using Python and Tableau, they’d like to see a report of borrowers who may have issues paying back the loan.
 
 I used Python to clean the dataset and do some analysis. Data visualization was done in Tableau. Check out the dashboard <a href="[https://public.tableau.com/views/ValueIncSales_16820587557630/Dashboard1?:language=en-GB&:display_count=n&:origin=viz_share_link](https://public.tableau.com/shared/YFXXTRNYD?:display_count=n&:origin=viz_share_link)">here.</a>
 
