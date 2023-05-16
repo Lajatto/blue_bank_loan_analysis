@@ -2,7 +2,7 @@
 
 ## <a href="https://lajatto.github.io/">Back to homepage</a>
 
-## **Project description:** Blue Bank is a bank in USA that has a loan departmenThey supply loans to individuals and don’t have much reporting on how risky these borrowers are.
+## **Project description:** Blue Bank is a bank in USA that has a loan department. They supply loans to individuals and don’t have much reporting on how risky these borrowers are.
 
 Using Python and Tableau, they’d like to see a report of borrowers who may have issues paying back the loan.
 
